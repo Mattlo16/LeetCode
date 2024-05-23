@@ -26,7 +26,7 @@ public class LinkedListCycle {
     }
     */
 
-    //Second solution, much more efficient, beats 100% of users.
+    //My second solution, much more efficient, beats 100% of users.
     //Both code snippets are O(n) but this one is slightly faster.
     public boolean hasCycle(ListNode head) {
         if (head == null)
