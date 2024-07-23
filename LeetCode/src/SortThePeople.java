@@ -1,5 +1,5 @@
 import java.util.Arrays;
-import java.util.HashMap;-
+import java.util.HashMap;
 
 public class SortThePeople {
     public static String[] sortPeople(String[] names, int[] heights) {
